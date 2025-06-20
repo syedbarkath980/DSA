@@ -1,0 +1,12 @@
+Difference between a Loop and Recursion: 
+🔁 Loops vs 🔄 Recursion 
+
+Loops repeat using for or while and are memory-efficient.
+
+Recursion repeats by calling the function itself and uses more memory (stack).
+
+Loops are better for simple, repetitive tasks.
+
+Recursion is useful when solving problems that can be broken into smaller versions of themselves (like trees, factorial, Fibonacci).
+
+Loops stop when a condition fails; recursion stops at a base case.
