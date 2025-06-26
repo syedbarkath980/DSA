@@ -2,7 +2,7 @@
     Bubble Sort compares and swaps adjacent elements to sort the array, 
     pushing the largest values to the end in each pass. It's 
     Simple but inefficient, with a worst-case time complexity of O(n²).
-*/ 
+*/
 
 let arr = [-5, 5, -8587, 84, 455, 9654816, 4, 0, 1]
 let n = arr.length
